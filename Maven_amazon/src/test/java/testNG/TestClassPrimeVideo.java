@@ -51,6 +51,8 @@ public class TestClassPrimeVideo {
 		System.out.println("beforeMethod");
 		
 		driver.get("https://www.amazon.in/");
+		driver.get("https://www.amazon.in/");
+		driver.get("https://www.amazon.in/");
 		
 	}
 	
