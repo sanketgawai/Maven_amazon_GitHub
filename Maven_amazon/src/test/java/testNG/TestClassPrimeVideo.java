@@ -124,7 +124,6 @@ public class TestClassPrimeVideo {
 //		driver = null;
 //		System.gc();
 		
-		System.out.println("John Wick");
 	}
 	
 }
