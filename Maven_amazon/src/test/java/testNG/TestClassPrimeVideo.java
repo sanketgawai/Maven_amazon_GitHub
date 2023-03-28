@@ -123,6 +123,7 @@ public class TestClassPrimeVideo {
 //		driver.quit();
 //		driver = null;
 //		System.gc();
+		System.out.println("njininik");
 	}
 	
 }
